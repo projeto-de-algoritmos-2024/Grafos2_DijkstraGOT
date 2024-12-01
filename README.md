@@ -40,11 +40,11 @@ Para usar o projeto, execute o script principal no Node.js.
 ### Passo a Passoa
 1. **Execução do Script Principal**:
    ```bash
-   node [GOTdijkstra.js](GOTdijkstra.js)
+   node GOTdijkstra.js
    ```
    Para visualizar todos os menores caminhos.
       ```bash
-   node [GOTallpaths.js](GOTallpaths.js) 
+   node GOTallpaths.js
    ```
     - O script carregará o dicionário, criará a lista de adjacência e exibirá o caminho entre duas palavras no console.
 
